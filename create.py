@@ -15,8 +15,7 @@ def create_new_project():
 def create_repo():
     g=Github(username, password)
     g.get_user().create_repo(filename)
-
-
+    
 if __name__ == "__main__":
     create_new_project()
     create_repo()
