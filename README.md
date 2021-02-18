@@ -34,7 +34,7 @@ The $PROJECT_PATH is the path I added in Envrionment Variable so that I can navi
 
 2. What are EMAIL and PASSWORD in create.py?
 
-These are also stored in the Envrionment Varibles to make sure I don't share my Github account information.
+These are also stored in the Envrionment Variables to make sure I don't share my Github account information.
 
 3. Are there other ways to store and retrieve sensitive information?
 
